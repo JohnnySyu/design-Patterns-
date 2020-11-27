@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB43BD05-F4EF-4FE3-B509-EBE40163F35A}</ProjectGuid>
+    <ProjectGuid>{7145E6A8-FEE8-4E8B-9BBD-A4A6584C000E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>WindowsFormsControlLibrary1</RootNamespace>
     <AssemblyName>WindowsFormsControlLibrary1</AssemblyName>
@@ -56,9 +56,6 @@
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="..\..\..\..\Desktop\設計模式練習\design-Patterns-\2.3簡單工廠" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

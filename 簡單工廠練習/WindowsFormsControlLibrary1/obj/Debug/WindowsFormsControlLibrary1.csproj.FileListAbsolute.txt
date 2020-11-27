@@ -6,3 +6,9 @@ C:\Users\Johnny\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibr
 C:\Users\Johnny\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
 C:\Users\Johnny\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
 C:\Users\Johnny\source\repos\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\簡單工廠練習\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
