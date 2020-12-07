@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\建造者模式\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
