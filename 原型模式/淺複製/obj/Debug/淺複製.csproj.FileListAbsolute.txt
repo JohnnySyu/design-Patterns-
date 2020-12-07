@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\bin\Debug\淺複製.exe.config
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\bin\Debug\淺複製.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\bin\Debug\淺複製.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\obj\Debug\淺複製.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\obj\Debug\淺複製.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\obj\Debug\淺複製.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\淺複製\obj\Debug\淺複製.pdb

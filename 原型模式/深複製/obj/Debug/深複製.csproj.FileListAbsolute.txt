@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\bin\Debug\深複製.exe.config
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\bin\Debug\深複製.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\bin\Debug\深複製.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\obj\Debug\深複製.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\obj\Debug\深複製.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\obj\Debug\深複製.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\原型模式\深複製\obj\Debug\深複製.pdb

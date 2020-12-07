@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30509.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2FB6B8FE-564A-46AA-8B7B-E0CE88BA5401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "提煉程式碼", "提煉程式碼\提煉程式碼.csproj", "{EB2A3CC0-2E4E-444B-9469-CAC5C7165AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "範本方法", "範本方法\範本方法.csproj", "{33F21288-E3C5-4BD2-B360-4D5556A0DE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB6B8FE-564A-46AA-8B7B-E0CE88BA5401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB6B8FE-564A-46AA-8B7B-E0CE88BA5401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB6B8FE-564A-46AA-8B7B-E0CE88BA5401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB6B8FE-564A-46AA-8B7B-E0CE88BA5401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2A3CC0-2E4E-444B-9469-CAC5C7165AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2A3CC0-2E4E-444B-9469-CAC5C7165AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2A3CC0-2E4E-444B-9469-CAC5C7165AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2A3CC0-2E4E-444B-9469-CAC5C7165AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F21288-E3C5-4BD2-B360-4D5556A0DE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F21288-E3C5-4BD2-B360-4D5556A0DE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F21288-E3C5-4BD2-B360-4D5556A0DE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F21288-E3C5-4BD2-B360-4D5556A0DE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC2611E-C09A-4D1C-BC4B-FE5A9018A8B2}
+	EndGlobalSection
+EndGlobal

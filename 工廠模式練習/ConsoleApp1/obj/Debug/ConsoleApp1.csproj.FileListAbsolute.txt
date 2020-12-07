@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\工廠模式練習\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

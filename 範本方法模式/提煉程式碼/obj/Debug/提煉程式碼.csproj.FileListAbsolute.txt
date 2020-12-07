@@ -1,0 +1,6 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\bin\Debug\提煉程式碼.exe.config
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\bin\Debug\提煉程式碼.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\bin\Debug\提煉程式碼.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\obj\Debug\提煉程式碼.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\obj\Debug\提煉程式碼.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\範本方法模式\提煉程式碼\obj\Debug\提煉程式碼.pdb
