@@ -1,0 +1,7 @@
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\bin\Debug\解耦合.exe.config
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\bin\Debug\解耦合.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\bin\Debug\解耦合.pdb
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\obj\Debug\解耦合.csprojAssemblyReference.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\obj\Debug\解耦合.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\obj\Debug\解耦合.exe
+C:\Users\Johnny\Desktop\設計模式練習\design-Patterns-\觀察者模式\解耦合\obj\Debug\解耦合.pdb
